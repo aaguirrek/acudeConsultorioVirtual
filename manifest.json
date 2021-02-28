@@ -1,0 +1,36 @@
+{
+  "android_package_name": "web.acude.live",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "id": "web.acude.live",
+      "platform": "chromeos_play"
+    }
+  ],
+  "short_name": Acude Consultorio Virtual",
+  "name": "Acude Consultorio Virtual",
+  "icons": [
+    {
+      "src": "https://pacientes.acudeapp.com/uploads/system_logo/favicon_602bdeee5a210.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://pacientes.acudeapp.com/uploads/system_logo/favicon_602bdeee5a210.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://pacientes.acudeapp.com/uploads/system_logo/favicon_602bdeee5a210.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#875FB6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#875FB6"
+ }
+ 
