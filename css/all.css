@@ -29,3 +29,12 @@
 .copy-button {
     background: #FE9067!important;
 }
+body {
+    background: #875FB6!important;
+}
+.tOoji {
+    background-color: rgb(135,95,182)!important;
+}
+.premeeting-screen {
+    background: radial-gradient(50% 50% at 50% 50%,#8e6eb3 20.83%,#875FB6 100%)!important;
+}
