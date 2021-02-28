@@ -38,3 +38,13 @@ body {
 .premeeting-screen {
     background: radial-gradient(50% 50% at 50% 50%,#8e6eb3 20.83%,#875FB6 100%)!important;
 }
+.premeeting-screen .action-btn.primary {
+    background: #FE9067!important;
+    border: 1px solid #FE9067!important;
+}
+.premeeting-screen .action-btn .options:hover{
+    background-color: #E27A53!important;
+}
+.premeeting-screen .content input.field.focused {
+    box-shadow: 0 0 4px 3px #FE9067!important;
+}
